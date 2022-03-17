@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "message": "Record(s) retrieved successfully!",
+  "data": [
+    {
+      "customer_id": "CID0100000001",
+      "customer_name": "John Doe"
+    },
+    {
+      "customer_id": "CID0100000002",
+      "customer_name": "Douglas Denver"
+    },
+    {
+      "customer_id": "CID0100000010",
+      "customer_name": "Manny Rivera"
+    },
+    {
+      "customer_id": "CID0110000011",
+      "customer_name": "Leni Robredo"
+    }
+  ]
+}

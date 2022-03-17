@@ -1,0 +1,5 @@
+{
+  "status": 200,
+  "message": "Record(s) retrieved successfully!",
+  "data": ["PAID", "DRAFT", "PUBLISHED", "UNPAID"]
+}

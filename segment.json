@@ -1,0 +1,18 @@
+{
+  "status": 200,
+  "message": "Record(s) retrieved successfully!",
+  "data": [
+    {
+      "segment_id": 1,
+      "segment_name": "Grade 1"
+    },
+    {
+      "segment_id": 2,
+      "segment_name": "Grade 2"
+    },
+    {
+      "segment_id": 3,
+      "segment_name": "Nursery"
+    }
+  ]
+}
